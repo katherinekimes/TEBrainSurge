@@ -1,0 +1,16 @@
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\bin\Debug\netcoreapp2.2\TEFlashCards.deps.json
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\bin\Debug\netcoreapp2.2\TEFlashCards.runtimeconfig.json
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\bin\Debug\netcoreapp2.2\TEFlashCards.runtimeconfig.dev.json
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\bin\Debug\netcoreapp2.2\TEFlashCards.dll
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\bin\Debug\netcoreapp2.2\TEFlashCards.pdb
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\bin\Debug\netcoreapp2.2\TEFlashCards.xml
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.csprojAssemblyReference.cache
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.csproj.CoreCompileInputs.cache
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.RazorAssemblyInfo.cache
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.RazorAssemblyInfo.cs
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.AssemblyInfoInputs.cache
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.AssemblyInfo.cs
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.RazorTargetAssemblyInfo.cache
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.dll
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.xml
+C:\Users\KKimes\git\c-final-capstone-flashcard-study-team-tilde\final-capstone\vue_starter_dotnet\backend\SampleApi\obj\Debug\netcoreapp2.2\TEFlashCards.pdb
